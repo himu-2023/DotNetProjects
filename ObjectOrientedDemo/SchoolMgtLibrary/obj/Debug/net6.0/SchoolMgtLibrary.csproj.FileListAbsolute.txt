@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\SchoolMgtLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\SchoolMgtLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\SchoolMgtLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\SchoolMgtLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\bin\Debug\net6.0\SchoolMgtLibrary.deps.json
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\bin\Debug\net6.0\SchoolMgtLibrary.dll
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\bin\Debug\net6.0\SchoolMgtLibrary.pdb
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\SchoolMgtLibrary.dll
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\refint\SchoolMgtLibrary.dll
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\SchoolMgtLibrary.pdb
+C:\Users\CDAC\Desktop\PriyaDotNet\ObjectOrientedDemo\SchoolMgtLibrary\obj\Debug\net6.0\ref\SchoolMgtLibrary.dll
