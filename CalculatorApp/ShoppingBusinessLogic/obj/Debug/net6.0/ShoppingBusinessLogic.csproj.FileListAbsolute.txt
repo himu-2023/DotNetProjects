@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\bin\Debug\net6.0\ShoppingBusinessLogic.deps.json
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\bin\Debug\net6.0\ShoppingBusinessLogic.dll
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\bin\Debug\net6.0\ShoppingBusinessLogic.pdb
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ShoppingBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ShoppingBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ShoppingBusinessLogic.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ShoppingBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ShoppingBusinessLogic.dll
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\refint\ShoppingBusinessLogic.dll
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ShoppingBusinessLogic.pdb
+C:\Users\CDAC\Desktop\PriyaDotNet\CalculatorApp\ShoppingBusinessLogic\obj\Debug\net6.0\ref\ShoppingBusinessLogic.dll
