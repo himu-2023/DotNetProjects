@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cust xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustId>12</CustId>
+  <CustName>Neha</CustName>
+  <Password>password</Password>
+</Cust>
